@@ -4,7 +4,7 @@
 
 ## Демо
 
-[Открыть сайт](https://fenazemax.github.io/movie-finder/)
+[Открыть сайт](https://fenazemax.github.io/movie_finder/)
 
 ## 🛠 Технологии
 
